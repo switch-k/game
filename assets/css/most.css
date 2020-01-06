@@ -1,0 +1,69 @@
+.btn-pop{
+      
+      /*margin: 30px 0px 10px 350px;
+      padding: 0px 0px 0px 350px;*/
+      display: block;
+      width: 100%;
+      padding: 1em;
+      background-color: #eee;
+   
+
+      
+      /*padding-right: 100px;*/
+
+}
+.btn-pop .btn{
+     
+  display: block;
+    margin: 0 0 0 auto;
+    width: 7em;
+}
+
+#calendar-container{
+    padding: 10px;
+    width: 210px;
+    height: 240px;
+    text-align: center;
+    border: 1px solid #eee;
+    border-radius: 10px;
+    font-size: 16px;
+    font-family: Arial;
+    background-image: linear-gradient(#fff, #d3d3d3);
+}
+
+#calendar-container>div{
+    padding: 0;
+    margin-bottom: 10px;
+}
+
+#calendar-month-year{
+    margin: 5px;
+}
+
+#calendar-dates>table>tr>td{
+    padding: 5px;
+}
+
+#wrapper {
+  width: 840px;
+  margin: 150px auto;
+}
+
+/*.box {
+  width: 600px;
+  height: 350px;
+  margin: 3em auto;
+  border: 1px solid #D0D0D0;
+  -webkit-box-shadow: 0 0 8px #D0D0D0;
+}*/
+
+ul.slides {
+  padding: 0;
+  margin: 1em auto;
+  list-style: none;
+}
+li.slide{
+  padding: 1em;
+}
+
+
